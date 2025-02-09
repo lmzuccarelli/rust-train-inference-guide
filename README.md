@@ -1,6 +1,6 @@
 # Overview
 
-Using burn libraries with cuda (gpu) tro train and infer the MNIST dataset 
+Using burn libraries with cuda (gpu) to train and infer the MNIST dataset 
 
 # Usage
 
