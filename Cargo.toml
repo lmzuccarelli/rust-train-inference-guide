@@ -1,0 +1,10 @@
+[package]
+name = "rust-train-inference-guide"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+burn = { version = "0.16.0", features = ["train", "vision"] }
+burn-autodiff = "0.16.0"
+burn-cuda = "0.16.0"
+indicatif = { version = "0.17.0-rc.11" }
